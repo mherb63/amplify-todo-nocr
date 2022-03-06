@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifytodonocr",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/mherb/Documents/AWS/amplify-todo-nocr/amplify/backend/api/amplifytodonocr/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
