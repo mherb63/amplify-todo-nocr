@@ -15,7 +15,6 @@ import 'primevue/resources/primevue.min.css';
 import 'primeicons/primeicons.css';
 import 'primeflex/primeflex.css'
 
-import moment from "moment";
 const app = createApp(App);
 app.use(PrimeVue);
 app.use(ToastService);
